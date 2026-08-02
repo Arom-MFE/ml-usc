@@ -1,0 +1,18 @@
+# Dependencies across all 8 project notebooks.
+# Versions intentionally unpinned — notebooks were authored across
+# several Python versions (3.6 to 3.13) and only a subset has been
+# verified against current library releases.
+# Launch notebooks from their own project directory; data paths are relative to it.
+
+imbalanced-learn
+jupyter
+matplotlib
+numpy
+openpyxl
+pandas
+scikit-learn
+scipy
+seaborn
+statsmodels
+tensorflow
+xgboost
